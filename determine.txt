@@ -1,0 +1,2 @@
+print def fake code not a real program
+but it has words like function and {
